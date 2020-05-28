@@ -1,6 +1,6 @@
 ## CRONY
 
-Manage all your cron jobs with in only one file
+Manage all your cron jobs in one file
 
 ### Features
  - Maintain one master crontab job.

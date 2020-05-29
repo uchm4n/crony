@@ -2,6 +2,11 @@
 
 Manage all your cron jobs in one file
 
+
+[![GitHub license](https://img.shields.io/github/license/maheshkareeya/a1?color=blue&logo=qcom&logoColor=blue&style=plastic)](https://raw.githubusercontent.com/uchm4n/crony/master/LICENSE)
+[![tag](https://img.shields.io/badge/deno->=1.0.0-green.svg?color=blue&logo=qcom&logoColor=blue&style=plastic)](https://github.com/denoland/deno)
+
+
 ### Features
  - Maintain one master crontab job.
  - Jobs run via DENO, so you can run them under any programmatic conditions.

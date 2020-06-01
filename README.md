@@ -69,3 +69,5 @@ command   | string/function | The shell command to run or function `() => {}`
 enabled   | bool    | Enable or disable job
 debug     | bool    | Enable or disable debugging. If any error happens inside jobs it will be dumped in `debug.log` file
 
+### Credits
+Project was inspired by [deno_cron](https://github.com/rbrahul/deno_cron)
